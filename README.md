@@ -1,1 +1,1 @@
-brew tap user/repo https://gitlab.com/dr0311/homebrew-pkg.git
+brew tap rajpdus/homebrew
